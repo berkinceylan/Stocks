@@ -1,6 +1,6 @@
 # Stocks
 
-![](https://raw.githubusercontent.com/berkinceylan/Stocks/main/Images/App%20Overview.png)
+![](https://raw.githubusercontent.com/berkinceylan/Stocks/main/Images/AppOverview.png)
 
 # About
 
